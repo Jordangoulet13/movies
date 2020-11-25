@@ -24,3 +24,4 @@ src/**/*.css
 
 # vs code settings
 /.vscode
+.vercel

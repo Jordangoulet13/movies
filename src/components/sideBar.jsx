@@ -32,24 +32,8 @@ const SideBar = ({ items, onItemSelect, selectedItem }) => {
           />
         </a>
         <div className="legal">
-          &copy; 2018 by{" "}
-          <a
-            href="https://gilbertrosario.com/"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="footer__link"
-          >
-            Gilbert Rosario.
-          </a>{" "}
-          All rights reserved. View project on{" "}
-          <a
-            href="https://github.com/Gilbert1391/Movie-Dashboard"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="footer__link"
-          >
-            GitHub.
-          </a>
+          &copy; 2020 by{" "}
+      Jordan Goulet
         </div>
       </div>
     </nav>
